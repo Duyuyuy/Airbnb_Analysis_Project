@@ -84,3 +84,10 @@ This project also finds out uncovered elements that are essential to the success
 
 
 ## Acknowledgements
+[Pandas Profiling](https://towardsdatascience.com/pandas-profiling-easy-exploratory-data-analysis-in-python-65d6d0e23650)
+
+[Polynomial Regression](https://www.w3schools.com/python/python_ml_polynomial_regression.asp)
+
+[FPgrowth](https://hands-on.cloud/implementation-of-fp-growth-algorithm-using-python/)
+
+[Hyperparamer tunning in pyspark](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74](https://spark.apache.org/docs/latest/ml-tuning.html)
