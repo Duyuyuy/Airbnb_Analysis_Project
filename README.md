@@ -60,4 +60,8 @@ This project also finds out uncovered elements that are essential to the success
 
 - pandas_profiling 3.2.0
 
-
+## Contributor
+![contributor]()https://github.com/thijnhdawjng
+<a href="https://github.com/thijnhdawjng">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
