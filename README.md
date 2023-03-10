@@ -1,5 +1,6 @@
 # Airbnb_Analysis_Project_2022
 
+![Airbnb](https://hotel.oxu.vn/wp-content/uploads/2018/08/airbnb.jpg)
 
 ## Introduction
 
@@ -7,7 +8,7 @@ In the purpose of helping entrepreneurs gain more knowledge about what they are 
 
 By the end of this project, entrepreneurs will get the full insights of Los Angeles’s AirBnB service, including the distribution of accommodation along with the cost, the benefit and the ideal price for each type in order to achieve the best for their start-ups.
 
-
+![LA](https://rickalbertonline.com/wp-content/uploads/2018/06/2018_04_Lamerica-Homes_3112-Corda-Dr._Los-Angeles_CA-12-2.jpg)
 
 ## Project Objectives
 
@@ -90,4 +91,4 @@ This project also finds out uncovered elements that are essential to the success
 
 [FPgrowth](https://hands-on.cloud/implementation-of-fp-growth-algorithm-using-python/)
 
-[Hyperparamer tunning in pyspark](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74](https://spark.apache.org/docs/latest/ml-tuning.html)
+[Hyperparamer tunning in pyspark](https://spark.apache.org/docs/latest/ml-tuning.html)
