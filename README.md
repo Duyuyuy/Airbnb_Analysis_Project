@@ -28,6 +28,50 @@ By observing the insights of this dataset, entrepreneurs will be able to:
 -	Forecast the suitable position and price for new accommodations in order to prepare and invest in it.
 -	Build a recommendation system for start-ups using customers’ reviews.
 
+## Process
+-	Data gathering
+
+-	Data preprocessing
+
+-	Data visualizing
+
+-	Data analyzing
+
+-	Data modeling
+
+## Special Implementation
+
+- Using fuzzywuzzy.process.extract to find similar type of property and replace them with right format
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89919775/224375725-9b97e15c-d860-4603-a22c-20830d91d6bf.png"><br/>
+</p>
+
+- Using pandas_profiling
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89919775/224373306-638e4e68-a558-480c-9974-f76a2b045698.png" width=800 ><br/>
+</p>
+
+-Using folium to draw map 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89919775/224379362-8e353dd1-3233-4edb-abab-4a64daeefb29.gif"><br/>
+  <i>Position of villa on the map</i>
+</p>
+
+Extract feature importance from Random Forest Regressor
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89919775/224381761-91aae040-1654-4175-a0e9-b3d6334dabea.png" ><br/>
+</p>
+
+Applying Association Rules
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89919775/224382170-de7f933f-0352-42e2-a887-b1f1403d1994.png" ><br/>
+</p>
+
 ## Result
 
 The project has already fulfill the task above:
@@ -49,9 +93,7 @@ This project also finds out uncovered elements that are essential to the success
 
 - ![Python Router](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-
 - ![image](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-
 
 - ![Folium](https://a11ybadges.com/badge?logo=folium)
 
