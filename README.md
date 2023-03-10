@@ -83,7 +83,7 @@ This project also finds out uncovered elements that are essential to the success
 </a>
 &nbsp; &nbsp; &nbsp;
 
-<a href="https://mail.google.com/mail/u/1/#inbox">
+<a href="mailto:tranbaoduy654772@gmail.com">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
 </a>
 
