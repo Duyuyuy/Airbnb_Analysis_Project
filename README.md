@@ -1,6 +1,8 @@
 # Airbnb_Analysis_Project_2022
+<p align="center">
+  <img src="https://hotel.oxu.vn/wp-content/uploads/2018/08/airbnb.jpg" />
+</p>
 
-![Airbnb](https://hotel.oxu.vn/wp-content/uploads/2018/08/airbnb.jpg)
 
 ## Introduction
 
@@ -8,7 +10,9 @@ In the purpose of helping entrepreneurs gain more knowledge about what they are 
 
 By the end of this project, entrepreneurs will get the full insights of Los Angeles’s AirBnB service, including the distribution of accommodation along with the cost, the benefit and the ideal price for each type in order to achieve the best for their start-ups.
 
-![LA](https://rickalbertonline.com/wp-content/uploads/2018/06/2018_04_Lamerica-Homes_3112-Corda-Dr._Los-Angeles_CA-12-2.jpg)
+<p align="center">
+  <img src="https://rickalbertonline.com/wp-content/uploads/2018/06/2018_04_Lamerica-Homes_3112-Corda-Dr._Los-Angeles_CA-12-2.jpg" />
+</p>
 
 ## Project Objectives
 
@@ -26,8 +30,8 @@ By observing the insights of this dataset, entrepreneurs will be able to:
 
 ## Result
 
-The project has already fulfill the task above. 
-- A clear picture of Airbnb has been illustrate and some significant insight has been found. 
+The project has already fulfill the task above:
+- A clear picture of Airbnb has been illustrate along with significant insight. 
 - The model developed to forecast the appropriate pricing for new Airbnbs based on their condition
 - Association rules also applied to determine the ideal combination of amenities.
 
@@ -69,17 +73,17 @@ This project also finds out uncovered elements that are essential to the success
 
 ## Contact
 
-<a href="https://github.com/thijnhdawjng">
+<a href="https://www.facebook.com/profile.php?id=100013569134053">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" />
 </a>    
 &nbsp; &nbsp; &nbsp;
 
-<a href="https://github.com/thijnhdawjng">
+<a href="https://www.linkedin.com/in/duy-tr%E1%BA%A7n-a6b8541b7/">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 &nbsp; &nbsp; &nbsp;
 
-<a href="https://github.com/thijnhdawjng">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
 </a>
 
