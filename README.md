@@ -3,6 +3,22 @@
   <img src="https://hotel.oxu.vn/wp-content/uploads/2018/08/airbnb.jpg" />
 </p>
 
+## TABLE OF CONTENTS 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#project-objectives">Project Objectives</a></li>
+    <li><a href="#process">Process</a></li>
+    <li><a href="#special-implementation">Special Implementation</a></li>
+    <li><a href="#results">Results</a></li>
+    <li><a href="#built-with">Built With</a></li>    
+    <li><a href="#contributor">Contributor</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgments</a></li>
+  </ol>
+</details>
+
 
 ## Introduction
 
@@ -72,7 +88,7 @@ Applying Association Rules
   <img src="https://user-images.githubusercontent.com/89919775/224382170-de7f933f-0352-42e2-a887-b1f1403d1994.png" ><br/>
 </p>
 
-## Result
+## Results
 
 The project has already fulfill the task above:
 - A clear picture of Airbnb has been illustrate along with significant insight. 
