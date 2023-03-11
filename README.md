@@ -3,7 +3,9 @@
   <img src="https://hotel.oxu.vn/wp-content/uploads/2018/08/airbnb.jpg" />
 </p>
 
-## TABLE OF CONTENTS 
+<a name="readme-top"></a>
+
+## 📔TABLE OF CONTENTS 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,7 +22,7 @@
 </details>
 
 
-## Introduction
+## 🏨Introduction
 
 In the purpose of helping entrepreneurs gain more knowledge about what they are going to do, this project will analyze an AirBnB service in Los Angeles - one of the most luxurious cities in the world to clarify how they can succeed here. The data would contain the neighborhood, location, price and reviews of accommodations that cooperate with AirBnB in Los Angeles.
 
@@ -30,21 +32,23 @@ By the end of this project, entrepreneurs will get the full insights of Los Ange
   <img src="https://rickalbertonline.com/wp-content/uploads/2018/06/2018_04_Lamerica-Homes_3112-Corda-Dr._Los-Angeles_CA-12-2.jpg" />
 </p>
 
-## Project Objectives
+## 🎯Project Objectives
 
-The project is aimed to answer these questions below:
+💘The project is aimed to answer these questions below:
 -	Which type of accommodation is the most popular in Los Angeles?
 -	Is there any correlation between room type, bath type and price of accommodation?
 -	How can businesses raise customer satisfaction and property value?
 -	What services should entrepreneurs prepare for their accommodations in the future?
 -	At what cost will clients be satisfied given the facilities of the accommodations?
 
-By observing the insights of this dataset, entrepreneurs will be able to:
+<br>
+
+💘By observing the insights of this dataset, entrepreneurs will be able to:
 -	Observe the insights of this dataset, including the most popular price range as well as the amount of bookings by customers.
 -	Forecast the suitable position and price for new accommodations in order to prepare and invest in it.
 -	Build a recommendation system for start-ups using customers’ reviews.
 
-## Process
+## ⚙Process
 -	Data gathering
 
 -	Data preprocessing
@@ -55,7 +59,7 @@ By observing the insights of this dataset, entrepreneurs will be able to:
 
 -	Data modeling
 
-## Special Implementation
+## ✍️Special Implementation
 
 - Using fuzzywuzzy.process.extract to find similar type of property and replace them with right format
 
@@ -70,7 +74,7 @@ By observing the insights of this dataset, entrepreneurs will be able to:
   <img src="https://user-images.githubusercontent.com/89919775/224373306-638e4e68-a558-480c-9974-f76a2b045698.png" width=800 ><br/>
 </p>
 
--Using folium to draw map 
+- Using folium to draw map 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89919775/224379362-8e353dd1-3233-4edb-abab-4a64daeefb29.gif"><br/>
@@ -83,29 +87,40 @@ Extract feature importance from Random Forest Regressor
   <img src="https://user-images.githubusercontent.com/89919775/224381761-91aae040-1654-4175-a0e9-b3d6334dabea.png" ><br/>
 </p>
 
-Applying Association Rules
+- Applying Association Rules
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89919775/224382170-de7f933f-0352-42e2-a887-b1f1403d1994.png" ><br/>
 </p>
 
-## Results
+## 🏆Results
 
-The project has already fulfill the task above:
-- A clear picture of Airbnb has been illustrate along with significant insight. 
-- The model developed to forecast the appropriate pricing for new Airbnbs based on their condition
-- Association rules also applied to determine the ideal combination of amenities.
+💘The project has already fulfill the task above:
 
-This project also finds out uncovered elements that are essential to the success of the accommodation through targeted analytics, including:
+👉 A clear picture of Airbnb has been illustrate along with significant insight. 
+
+👉 The model developed to forecast the appropriate pricing for new Airbnbs based on their condition
+
+👉 Association rules also applied to determine the ideal combination of amenities.
+
+<br>
+
+💘This project also finds out uncovered elements that are essential to the success of the accommodation through targeted analytics, including:
+
 -	The wide range of price is affected by the wide range of accommodation types and minimum night. The same for other attributes.
+
 -	The combination of expensive room type and luxury property does not necessarily result in high value of accommodation, but it depends on the suitability between them.
+
 -	The more money customers pay for the accommodation, the higher level of satisfactory standards they require.
+
 -	Both property and room types have separate suitable locations to work well.
+
 -	Although there are correlations between the price and other attributes, there are some critical rules that help distinguish them.
--	Only if number of reviews are trivial, do the price of rental worsen customer satisfaction
+
+- Only if number of reviews are trivial, do the price of rental worsen customer satisfaction
 
 
 
-## Built with
+## 🏗️Built with
 
 - ![Python Router](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
@@ -117,19 +132,22 @@ This project also finds out uncovered elements that are essential to the success
 
 - ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
+<!-- See more badge: https://github.com/Ileriayo/markdown-badges
+  https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md#-database--->
+
 - MLxtend
 
 - fuzzywuzzy
 
 - pandas_profiling 3.2.0
 
-## Contributor
+## 👋Contributing
 
 <a href="https://github.com/thijnhdawjng">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
-## Contact
+## 📞Contact
 
 <a href="https://www.facebook.com/profile.php?id=100013569134053">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" />
@@ -146,7 +164,8 @@ This project also finds out uncovered elements that are essential to the success
 </a>
 
 
-## Acknowledgements
+
+## 📖Acknowledgements
 [Pandas Profiling](https://towardsdatascience.com/pandas-profiling-easy-exploratory-data-analysis-in-python-65d6d0e23650)
 
 [Polynomial Regression](https://www.w3schools.com/python/python_ml_polynomial_regression.asp)
@@ -154,3 +173,5 @@ This project also finds out uncovered elements that are essential to the success
 [FPgrowth](https://hands-on.cloud/implementation-of-fp-growth-algorithm-using-python/)
 
 [Hyperparamer tunning in pyspark](https://spark.apache.org/docs/latest/ml-tuning.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
