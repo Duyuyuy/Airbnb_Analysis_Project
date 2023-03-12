@@ -51,6 +51,8 @@ By the end of this project, entrepreneurs will get the full insights of Los Ange
 ## ⚙Process
 -	Data gathering
 
+The Dataset: https://www.kaggle.com/datasets/okconde/airbnb-la
+
 -	Data preprocessing
 
 -	Data visualizing
@@ -58,6 +60,8 @@ By the end of this project, entrepreneurs will get the full insights of Los Ange
 -	Data analyzing
 
 -	Data modeling
+
+See detail steps and explaination in Kaggle: 
 
 ## ✍️Special Implementation
 
